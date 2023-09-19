@@ -35,5 +35,8 @@
   },
   "files": [
     "lib/**/*"
-  ]
+  ],
+  "dependencies": {
+    "ethereum-cryptography": "^2.1.2"
+  }
 }
